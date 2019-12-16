@@ -1,2 +1,2 @@
 # Nairobi-Go
-A website for Nairobi Go meetup
+> A website for Nairobi Go meetup group
